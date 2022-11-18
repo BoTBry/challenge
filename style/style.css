@@ -1,0 +1,40 @@
+nav{
+    text-align: center;
+    background-color: rgb(250, 134, 153);
+}
+nav h1:hover{
+    background-color:  rgb(250, 134, 153) ;
+    color: white;
+}
+/* *{
+    border: 2px solid rgb(255, 255, 255);
+} */
+body{
+    background-color: rgb(250, 134, 153);
+}
+p{
+    text-align: center;
+    color: white;
+}
+#p{
+    color: black;
+}
+#margin{
+    text-align: center;
+    margin-left: 0px;
+    color: white;
+}
+h4{
+    text-align: left;
+    display: block;
+    margin: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+  }
+h2{
+    text-align: center;
+    color: white;
+}
